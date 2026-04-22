@@ -62,7 +62,7 @@ Configured a router to act as a DHCP server for two LANs, automatically assignin
 
 ### Lab 3
 
-![Lab 3 Topology](Lab-3-Static-Routing/topology.png)
+![Lab 3 Topology](Lab-3-Static_Routing/topology.png)
 
 ### Lab 4
 
